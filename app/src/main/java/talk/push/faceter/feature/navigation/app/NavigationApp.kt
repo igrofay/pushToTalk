@@ -1,4 +1,4 @@
-package talk.push.faceter.feature.navigation
+package talk.push.faceter.feature.navigation.app
 
 import androidx.compose.runtime.*
 import androidx.navigation.compose.NavHost

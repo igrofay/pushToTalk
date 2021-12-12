@@ -15,6 +15,12 @@
     <uses-permission
         android:required="true"
         android:name="android.permission.INTERNET"/>
+    <uses-permission
+        android:required="true"
+        android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission
+        android:required="true"
+        android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
 
     <application
         android:allowBackup="true"
