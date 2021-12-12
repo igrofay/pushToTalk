@@ -1,14 +1,8 @@
 <resources>
-    <string name="app_name">Push To Talk</string>
-    <string name="call">Позвонить</string>
+    <string name="app_name">faceter</string>
+    <string name="call">Звонок</string>
     <string name="baby_monitor">Радионяня</string>
-    <string name="local">Локально</string>
-    <string name="global">Глобально</string>
-    <string name="select_connection_method">Выберите способ соединения</string>
-    <string name="connection_with">Ключь с кем соединяемся</string>
-    <string name="connection_who">Ключь кто соединяется</string>
-    <string name="join_room">Присоединиться к комнате</string>
-    <string name="create_room">Создать комнату</string>
-    <string name="create">Создать</string>
-    <string name="join">Присоединиться</string>
+    <string name="key_connection_who">Ключ кто присоединяется</string>
+    <string name="key_connection_with">Ключ с кем присоединяемся</string>
+    <string name="key_length">Ключ должен быть 4х</string>
 </resources>
